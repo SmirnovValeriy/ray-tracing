@@ -7,8 +7,8 @@ Obligatory requiremnts are as following:
 1. implementation of local illumination with Phong's model (or others);
 2. implementation of shadows;
 3. implementation of mirror reflections;
-4. using at least 3 different materials ;
-5. using at least 2 different geometric primitives ;
+4. using at least 3 different materials;
+5. using at least 2 different geometric primitives;
 6. using at least 1 light source;
 7. 1 scene rendering should take no more than 1 second (for processor like 6-cores AMD Ryzen 5 3600);
 8. minimal resolution for an image is 512x512.
