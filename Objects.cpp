@@ -4,10 +4,8 @@
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
-Sphere::Sphere(const Vec3f &c, const float &r, const Material &m): center(c), radius(r), material(m) {
-    envmap.push_back(Vec3f(1., 1., 1.));
-    envmap.push_back(Vec3f(1., 1., 1.));
-}
+
+Sphere::Sphere(const Vec3f &c, const float &r, const Material &m): center(c), radius(r), material(m) {}
 
 bool Sphere::ray_intersect(const Vec3f &orig, const Vec3f &dir, Vec3f &hit, Vec3f &N) const {
     Vec3f L = center - orig;
