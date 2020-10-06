@@ -43,14 +43,14 @@ Solution to the task is written on C++: [ray_tracing.cpp](ray_tracing.cpp).
 
 To compile the program do: \
 **`$ cmake .`** \
-**`$ make -j 4`**. 
+**`$ make -j 4`**
 
 To run the program do: \
-**`$ ./ray_tracing`**.
+**`$ ./ray_tracing`**
 
 Following parameters are available: \
 **"-out"** --- file to write a result in (should have .jpg format, scene.jpg by default); \
 **"-scene"** --- number of scene (1 or 2, 1 by default); \
 **"-threads"** --- number of threads (8 by default).
 
-**Example: `$ ./ray_tracing -scene 1 -threads 4 -out "scene1.jpg"`**.
+**Example: `$ ./ray_tracing -scene 1 -threads 4 -out "scene1.jpg"`**
