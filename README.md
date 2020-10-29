@@ -39,7 +39,7 @@ Students are also offered to perform additional features.
 
 ### Run
 
-Solution to the task is written on C++: [ray_tracing.cpp](ray_tracing.cpp). 
+Solution to the task is written on C++: **[ray_tracing.cpp](ray_tracing.cpp)**. 
 
 To compile the program do: \
 **`$ cmake .`** \
