@@ -1,7 +1,7 @@
 ## Ray Tracing
 
 ### Ray tracing task requirements
-During a Computer Graphics course students of the Computional Mathematics and Cybernetics Faculty of Moscow State University are offered to solve a task on ray tracing algorithm and visualize 1-3 scenes using the algorithm.
+During a Computer Graphics course students of the Computational Mathematics and Cybernetics Faculty of Moscow State University are offered to solve a task on ray tracing algorithm and visualize 1-3 scenes using the algorithm.
 
 Obligatory requiremnts are as following:
 1. implementation of local illumination with Phong's model (or others);
